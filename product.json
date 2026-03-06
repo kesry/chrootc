@@ -4,5 +4,75 @@
     "name": "debian trixie",
     "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
     "arch": "armv7"
+  },  {
+    "id": 2,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 3,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 4,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 5,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 6,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 7,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 8,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 9,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 10,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 11,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 12,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 13,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 14,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
+  },  {
+    "id": 15,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-armv7.tar.gz",
+    "arch": "armv7"
   }
 ]
