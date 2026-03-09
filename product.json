@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "debian trixie",
-    "link": "",
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-arm.tar.gz",
     "arch": "armv7"
   }
 ]
