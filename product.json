@@ -4,5 +4,11 @@
     "name": "debian trixie",
     "link": "https://github.com/kesry/chrootc/releases/download/v1/debian-trixie-arm.tar.gz",
     "arch": "armv7"
+  },
+  {
+    "link": "https://github.com/kesry/chrootc/releases/download/v1/alpine-arm.tar.gz",
+    "arch": "armv7",    
+    "id": 2,    
+    "name": "alpine",
   }
 ]
