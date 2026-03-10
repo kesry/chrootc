@@ -9,6 +9,6 @@
     "link": "https://github.com/kesry/chrootc/releases/download/v1/alpine-arm.tar.gz",
     "arch": "armv7",    
     "id": 2,    
-    "name": "alpine",
+    "name": "alpine"
   }
 ]
