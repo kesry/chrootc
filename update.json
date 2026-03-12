@@ -1,6 +1,6 @@
 {
   "version": "v1.0.6",
   "versionCode": 7,
-  "zipUrl": "",
-  "changelog": "这个文件是空的，不要管"
+  "zipUrl": "https://github.com/kesry/chrootc/releases/download/v1/chrootc_v1.0.6.zip",
+  "changelog": "优化UI"
 }
