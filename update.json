@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.7",
-  "versionCode": 8,
-  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v1/chrootc_v1.0.7.zip",
+  "version": "v1.0.8",
+  "versionCode": 9,
+  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v1/chrootc_v1.0.8.zip",
   "changelog": "优化UI"
 }
