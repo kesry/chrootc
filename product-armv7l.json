@@ -10,5 +10,11 @@
     "arch": "armv7",    
     "id": 2,    
     "name": "alpine"
+  },
+  {
+    link: "https://github.com/kesry/chrootc/releases/download/v1/alpine-3.23-armv7l.tar.gz",
+    "arch": "armv7",    
+    "id": 3,    
+    "name": "alpine 3.23"
   }
 ]
