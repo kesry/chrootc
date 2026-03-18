@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/debian-trixie-arm.tar.gz",
+    "arch": "armv7l"
+  },  
+  {
+    "id": 2,
+    "name": "alpine arm",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/alpine-arm.tar.gz",
+    "arch": "armv7l"
+  },
+  {
+    "id": 3,
+    "name": "alpine arm 3.23",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/alpine-3.23-armv7l.tar.gz",
+    "arch": "armv7l"
+  }
+]
