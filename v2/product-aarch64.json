@@ -4,5 +4,11 @@
     "name": "debian trixie",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/debian-trixie-aarch64.tar.gz",
     "arch": "aarch64"
+  },
+  {
+    "id": 2,
+    "name": "ubuntu 24023",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-24043-aarch64.tar.gz",
+    "arch": "aarch64"
   }
 ]
