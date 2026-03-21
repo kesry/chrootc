@@ -3,6 +3,6 @@
     "id": 1,
     "name": "debian trixie",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/debian-trixie-aarch64.tar.gz",
-    "arch": "armv7l"
+    "arch": "aarch64"
   }
 ]
