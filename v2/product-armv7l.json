@@ -16,5 +16,11 @@
     "name": "alpine arm 3.23",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/alpine-3.23-armv7l.tar.gz",
     "arch": "armv7l"
+  },
+  {
+    "id": 4,
+    "name": "ubuntu arm 24.04.4",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-24044-armv7l.tar.gz",
+    "arch": "armv7l"
   }
 ]
