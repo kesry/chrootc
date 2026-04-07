@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.2",
-  "versionCode": 22,
-  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v2.0.2/chrootc_v2.0.2.zip",
-  "changelog": "优化容器启停逻辑"
+  "version": "v2.0.4",
+  "versionCode": 24,
+  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v2.0.4/chrootc_v2.0.4.zip",
+  "changelog": "新增调整重启自启容器，新增调整挂载点"
 }
