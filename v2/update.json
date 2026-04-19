@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.7",
-  "versionCode": 27,
-  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v2.0.7/chrootc_v2.0.7.zip",
-  "changelog": "增加透传文件夹支持，直接挂载本地文件夹，剔除TF卡自动挂载目录，由用户自行选择是否挂载TF卡"
+  "version": "v2.0.8",
+  "versionCode": 28,
+  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v2.0.8/chrootc_v2.0.8.zip",
+  "changelog": "增加/dev/net/tun"
 }
