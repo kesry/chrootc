@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.8",
-  "versionCode": 28,
-  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v2.0.8/chrootc_v2.0.8.zip",
+  "version": "v2.0.9",
+  "versionCode": 29,
+  "zipUrl": "https://gh-proxy.org/https://github.com/kesry/chrootc/releases/download/v2.0.9/chrootc_v2.0.9.zip",
   "changelog": "增加/dev/net/tun"
 }
