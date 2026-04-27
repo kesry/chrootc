@@ -16,5 +16,11 @@
     "name": "ubuntu 2604t",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-2604t-aarch64.tar.gz",
     "arch": "aarch64"
+  },
+  {
+    "id": 4,
+    "name": "ubuntu resolute",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-resolute-aarch64.tar.gz",
+    "arch": "aarch64"
   }
 ]
