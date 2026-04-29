@@ -1,24 +1,6 @@
 [
   {
     "id": 1,
-    "name": "debian trixie",
-    "link": "https://github.com/kesry/chrootc/releases/download/v2/debian-trixie-aarch64.tar.gz",
-    "arch": "aarch64"
-  },
-  {
-    "id": 2,
-    "name": "ubuntu 24023",
-    "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-24043-aarch64.tar.gz",
-    "arch": "aarch64"
-  },
-  {
-    "id": 3,
-    "name": "ubuntu 2604t",
-    "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-2604t-aarch64.tar.gz",
-    "arch": "aarch64"
-  },
-  {
-    "id": 4,
     "name": "ubuntu resolute",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-resolute-aarch64.tar.gz",
     "arch": "aarch64"
