@@ -4,5 +4,11 @@
     "name": "ubuntu resolute",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-resolute-aarch64.tar.gz",
     "arch": "aarch64"
+  },
+  {
+    "id": 2,
+    "name": "ubuntu 2404",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-24043-aarch64.tar.gz",
+    "arch": "aarch64"
   }
 ]
