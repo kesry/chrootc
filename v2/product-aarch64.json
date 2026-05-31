@@ -10,5 +10,11 @@
     "name": "ubuntu 2404",
     "link": "https://github.com/kesry/chrootc/releases/download/v2/ubuntu-24043-aarch64.tar.gz",
     "arch": "aarch64"
+  },
+  {
+    "id": 3,
+    "name": "debian trixie",
+    "link": "https://github.com/kesry/chrootc/releases/download/v2/debian-trixie-aarch64.tar.gz",
+    "arch": "aarch64"
   }
 ]
