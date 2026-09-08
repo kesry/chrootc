@@ -1,0 +1,82 @@
+[
+  {
+    "version": "23",
+    "url": "https://nodejs.org/dist/v23.11.1/node-v23.11.1-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "22",
+    "url": "https://nodejs.org/dist/v22.23.2/node-v22.23.2-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "21",
+    "url": "https://nodejs.org/dist/v21.7.3/node-v21.7.3-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "20",
+    "url": "https://nodejs.org/dist/v20.20.2/node-v20.20.2-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "19",
+    "url": "https://nodejs.org/dist/v19.9.0/node-v19.9.0-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "18",
+    "url": "https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "17",
+    "url": "https://nodejs.org/dist/v17.9.1/node-v17.9.1-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "16",
+    "url": "https://nodejs.org/dist/v16.20.2/node-v16.20.2-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "15",
+    "url": "https://nodejs.org/dist/v15.14.0/node-v15.14.0-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "14",
+    "url": "https://nodejs.org/dist/v14.21.3/node-v14.21.3-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "13",
+    "url": "https://nodejs.org/dist/v13.14.0/node-v13.14.0-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "12",
+    "url": "https://nodejs.org/dist/v12.22.12/node-v12.22.12-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "11",
+    "url": "https://nodejs.org/dist/v11.15.0/node-v11.15.0-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "10",
+    "url": "https://nodejs.org/dist/v10.24.1/node-v10.24.1-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "9",
+    "url": "https://nodejs.org/dist/v9.11.2/node-v9.11.2-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "8",
+    "url": "https://nodejs.org/dist/v8.17.0/node-v8.17.0-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "7",
+    "url": "https://nodejs.org/dist/v7.10.1/node-v7.10.1-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "6",
+    "url": "https://nodejs.org/dist/v6.17.1/node-v6.17.1-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "5",
+    "url": "https://nodejs.org/dist/v5.12.0/node-v5.12.0-linux-armv7l.tar.xz"
+  },
+  {
+    "version": "4",
+    "url": "https://nodejs.org/dist/v4.9.1/node-v4.9.1-linux-armv7l.tar.xz"
+  }
+]
